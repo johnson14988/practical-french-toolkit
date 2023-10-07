@@ -8,7 +8,10 @@ This project leverages spaCy3.x and incorporates functionalities for French lang
 - query French verb lemma from two source
 - lemmatize french conjugations in a text and annotate to assist memorizing french verb conjugation.
 
-## installation
+## Usages
+
+Alhough each .py file contain at least one function, it is more convenient to just run start.py to select a function and execute. Given that it doesn't exist a .exe file in this project folder, so all function will be execute directly on IDE. When you run `start.py` each time. however, you may suffer a long waiting time to load model depending on your PC performance.
+
 ## Installing Dependencies
 
 To install the required dependencies for this project, follow these steps:
